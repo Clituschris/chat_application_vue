@@ -1,0 +1,217 @@
+{
+  "conversations": [
+    {
+      "userId": "ansh_02",
+      "name": "Anash",
+      "chats": [
+        {
+          "id": 1,
+          "msg": "hii Anash",
+          "sent": true
+        },
+        {
+          "id": 2,
+          "msg": "hii",
+          "sent": false
+        },
+        {
+          "id": 3,
+          "msg": "how are you?",
+          "sent": true
+        },
+        {
+          "id": 4,
+          "msg": "Fine",
+          "sent": false
+        },
+        {
+          "id": "2023-08-09T06:54:02.752Z",
+          "msg": "ok",
+          "sent": true
+        }
+      ]
+    },
+    {
+      "chats": [
+        {
+          "id": "2023-08-09T07:07:45.732Z",
+          "msg": "hii",
+          "sent": true
+        },
+        {
+          "id": "2023-08-09T07:08:36.934Z",
+          "msg": "hello",
+          "sent": true
+        },
+        {
+          "id": "2023-08-09T07:08:49.824Z",
+          "msg": "are you there?",
+          "sent": true
+        },
+        {
+          "id": "2023-08-09T07:39:05.255Z",
+          "msg": "deii",
+          "sent": true
+        }
+      ],
+      "name": "Manoj",
+      "userId": "mnj_02"
+    },
+    {
+      "userId": "jem_02",
+      "name": "Jemeela",
+      "chats": [
+        {
+          "id": 1,
+          "msg": "hii Jemeela",
+          "sent": true
+        },
+        {
+          "id": 2,
+          "msg": "hii",
+          "sent": false
+        },
+        {
+          "id": 3,
+          "msg": "how are you?",
+          "sent": true
+        },
+        {
+          "id": 4,
+          "msg": "Fine",
+          "sent": false
+        }
+      ]
+    },
+    {
+      "userId": "stya_02",
+      "name": "Sathya",
+      "chats": [
+        {
+          "id": 1,
+          "msg": "hii",
+          "sent": true
+        },
+        {
+          "id": 2,
+          "msg": "hii",
+          "sent": false
+        },
+        {
+          "id": 3,
+          "msg": "how are you?",
+          "sent": true
+        },
+        {
+          "id": 4,
+          "msg": "Fine",
+          "sent": false
+        }
+      ]
+    },
+    {
+      "userId": "pksh_02",
+      "name": "Prakash",
+      "chats": [
+        {
+          "id": 1,
+          "msg": "hii",
+          "sent": true
+        },
+        {
+          "id": 2,
+          "msg": "hii",
+          "sent": false
+        },
+        {
+          "id": 3,
+          "msg": "how are you?",
+          "sent": true
+        },
+        {
+          "id": 4,
+          "msg": "Fine",
+          "sent": false
+        }
+      ]
+    },
+    {
+      "userId": "stsh_02",
+      "name": "Sathish",
+      "chats": [
+        {
+          "id": 1,
+          "msg": "hii",
+          "sent": true
+        },
+        {
+          "id": 2,
+          "msg": "hii",
+          "sent": false
+        },
+        {
+          "id": 3,
+          "msg": "how are you?",
+          "sent": true
+        },
+        {
+          "id": 4,
+          "msg": "Fine",
+          "sent": false
+        }
+      ]
+    },
+    {
+      "userId": "gna_02",
+      "name": "Guna",
+      "chats": [
+        {
+          "id": 1,
+          "msg": "hii",
+          "sent": true
+        },
+        {
+          "id": 2,
+          "msg": "hii",
+          "sent": false
+        },
+        {
+          "id": 3,
+          "msg": "how are you?",
+          "sent": true
+        },
+        {
+          "id": 4,
+          "msg": "Fine",
+          "sent": false
+        }
+      ]
+    },
+    {
+      "userId": "bla_02",
+      "name": "Bala",
+      "chats": [
+        {
+          "id": 1,
+          "msg": "hii",
+          "sent": true
+        },
+        {
+          "id": 2,
+          "msg": "hii",
+          "sent": false
+        },
+        {
+          "id": 3,
+          "msg": "how are you?",
+          "sent": true
+        },
+        {
+          "id": 4,
+          "msg": "Fine",
+          "sent": false
+        }
+      ]
+    }
+  ]
+}
